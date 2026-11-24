@@ -10,7 +10,7 @@ against the published judge brief.
 
 ## Entry
 
-`main.py` writes a single line to `/output/entry.txt`. The line (60 chars):
+`main.py` writes a single line to `/output/entry.txt`. The line (65 chars):
 
 > I auto-complete 'I quit' into 'I quit' but never once press send.
 
